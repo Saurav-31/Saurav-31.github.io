@@ -1,9 +1,10 @@
 ## Saurav Gupta
 
-I have 6 years of experience working in machine learning, specifically computer vision problems. I currently work at Mercedes-Benz Research and Development India. 
+
+Hi! I have around 6 years of experience working in **Deep Learning**, specifically **Computer Vision** problems. I currently work as a **Research Engineer** at **Mercedes-Benz Research and Development India**, working on the MBUX Interior Assistant using Computer Vision and Deep Learning. I am responsibile to develop production-ready modules for **Monocular Depth Estimation**, **Face Anti-Spoofing technology using IR images and Face Detection**, as a part of Driver Montitoring System Project for MBRDI. Few completed projects include **Occupancy Detection using a multi-modal camera, Keypoint Estimation for Body Joints** as a part of MBUX project. 
+
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
