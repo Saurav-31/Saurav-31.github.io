@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Saurav Gupta
 
-You can use the [editor on GitHub](https://github.com/Saurav-31/Saurav-31.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have 6 years of experience working in machine learning, specifically computer vision problems. I currently work at Mercedes-Benz Research and Development India. 
 
 ### Markdown
 
