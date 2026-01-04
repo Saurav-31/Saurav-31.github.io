@@ -5,6 +5,8 @@ name:
   display: Saurav Gupta
   given: Saurav
   family: Gupta
+avatar:
+  filename: me.jpg
 status:
   icon: 🚗
 role: Senior Technical Lead – Computer Vision & Deep Learning

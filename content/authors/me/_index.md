@@ -16,6 +16,9 @@ interests:
   - Face Anti-Spoofing & Security
   - Domain Adaptation & Synthetic Data
   - Vision Transformers
+  - LLMs
+  - VLMs
+  - Agentic AI
 
 education:
   courses:
