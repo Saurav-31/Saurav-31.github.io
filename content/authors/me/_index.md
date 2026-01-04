@@ -6,7 +6,7 @@ organizations:
   - name: Mercedes-Benz R&D India
     url: ""
 status:
-  icon: "🚗"
+  icon: 🚗
 bio: Senior Technical Lead with 9+ years of experience. I build production-grade AI systems for automotive biometrics, in-cabin perception, and physiological sensing.
 
 interests:

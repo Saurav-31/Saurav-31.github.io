@@ -1,0 +1,48 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Saurav Gupta
+  given: Saurav
+  family: Gupta
+status:
+  icon: 🚗
+role: Senior Technical Lead – Computer Vision & Deep Learning
+bio: |
+  Senior Technical Lead with 9+ years of experience. I build production-grade AI systems for automotive biometrics, in-cabin perception, and physiological sensing.
+
+affiliations:
+  - name: Mercedes-Benz R&D India
+    url: ""
+
+links:
+  - icon: at-symbol
+    url: mailto:sauravgupta.iitd@gmail.com
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/saurav-gupta-367226120/
+  - icon: brands/github
+    url: https://github.com/Saurav-31
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=mlJjWGEAAAAJ
+  - icon: phone
+    url: tel:+918591974337
+
+interests:
+  - Computer Vision (Automotive)
+  - Biometrics & FaceID
+  - Physiological Sensing (rPPG)
+  - Face Anti-Spoofing & Security
+  - Domain Adaptation & Synthetic Data
+  - Vision Transformers
+
+education:
+  - degree: M.S. in Mathematics
+    institution: Indian Institute of Technology (IIT), Delhi
+    start: 2014-09-01
+    end: 2016-06-30
+  - degree: B.S. (Hons.) in Mathematics and Computing
+    institution: Punjab University, Chandigarh
+    start: 2011-09-01
+    end: 2014-06-30
+
