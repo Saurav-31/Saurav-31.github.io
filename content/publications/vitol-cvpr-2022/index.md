@@ -5,12 +5,18 @@ authors:
 date: 2022-06-19
 publishDate: 2022-06-19
 draft: false
+weight: 1
 publication_types: ["1"]
 publication: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022"
 publication_short: "CVPR 2022"
 location: "New Orleans, U.S.A"
 featured: true
 summary: "We introduce ViTOL, a novel approach for weakly supervised object localization using Vision Transformers with patch-based Attention Dropout Layer (p-ADL) and Gradient Attention Rollout (GAR) mechanism."
+image:
+  caption: "ViTOL: Vision Transformer for Weakly Supervised Object Localization"
+  focal_point: Smart
+  preview_only: false
+  # filename: "featured.jpg"  # Uncomment and specify filename if image is in assets/media/publications/vitol-cvpr-2022/
 tags:
   - Computer Vision
   - Vision Transformers

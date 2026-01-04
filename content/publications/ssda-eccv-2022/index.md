@@ -5,12 +5,18 @@ authors:
 date: 2022-10-23
 publishDate: 2022-10-23
 draft: false
+weight: 2
 publication_types: ["1"]
 publication: "European Conference on Computer Vision (ECCV) 2022"
 publication_short: "ECCV 2022"
 location: "Tel Aviv, Israel"
 featured: true
 summary: "A novel method for semi-supervised domain adaptation that leverages feature similarity to pseudo-label unlabeled data, achieving state-of-the-art performance across benchmark datasets."
+image:
+  caption: "Semi-Supervised Domain Adaptation by Similarity based Pseudo-label Injection"
+  focal_point: Smart
+  preview_only: false
+  # filename: "featured.jpg"  # Uncomment and specify filename if image is in assets/media/publications/ssda-eccv-2022/
 tags:
   - Domain Adaptation
   - Semi-Supervised Learning
