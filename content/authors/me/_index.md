@@ -7,7 +7,7 @@ organizations:
     url: ""
 status:
   icon: 🚗
-bio: Senior Technical Lead with 9+ years of experience. I build production-grade AI systems for automotive biometrics, in-cabin perception, and physiological sensing.
+bio: Senior Technical Lead with 9+ years of experience. I build production-grade AI systems for automotive biometrics, in-cabin perception, and physiological sensing. My research interests include Large Language Models (LLMs), Vision-Language Models (VLMs), and multimodal AI, with a focus on learning and advancing these cutting-edge fields.
 
 interests:
   - Computer Vision (Automotive)
